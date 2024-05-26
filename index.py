@@ -82,3 +82,11 @@ def update_data():
     unique_df.to_csv('output.csv', index=False)
     print(f"CSV file '{csv_file_path}' generated successfully.")
     return jsonify("hi")
+
+
+
+@app.route('/', methods=['GET'])
+def check():
+    
+    return jsonify("hi")
+
