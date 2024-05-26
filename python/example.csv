@@ -1,0 +1,10 @@
+item_id,title,brand,user_id,rating,timestamp,sub_cat,main_cat,age,gender,location
+65f92fe18156be72902fa6fb,oneplus nord ce 3 5g (aqua surge 12gb ram 256gb storage),oneplus,90bc6c94,4.1,2024-03-19 06:25:34,SmartPhones,Electronics,21,female,canada
+65f939188156be72904a387a,samsung s24+ 5g 256 gb 12gb ram onyx black mobile phone,samsung,189625dd,0.0,2024-03-20 05:52:40,SmartPhones,Electronics,21,female,uk
+65f968f38156be7290dcc931,moto edge 40 5g 256 gb 8 gb viva magenta mobile phone,moto,90bc6c94,4.8,2024-03-19 10:29:07,SmartPhones,Electronics,21,female,canada
+65f9695d8156be7290de09fb,samsung galaxy s23 5g (8gb ram 128gb phantom black),samsung,df61010f,2.0,2024-03-19 10:30:53,SmartPhones,Electronics,21,female,canada
+65f96d948156be7290ea4aef,apple iphone 15 128gb blue,apple,189625dd,4.9,2024-03-20 04:19:50,SmartPhones,Electronics,21,female,uk
+65f971528156be7290f4c493,apple iphone 15 128gb black,apple,b74e2b1a,4.9,2024-03-19 11:04:50,SmartPhones,Electronics,21,male,brazil
+65f973888156be7290faa54c,samsung galaxy z fold5 5g (phantom black 12gb ram 512gb storage),samsung,3962a1dd,4.1,2024-03-19 11:15:16,SmartPhones,Electronics,21,male,usa
+65f974728156be7290fd582a,apple iphone 15 pro (256gb natural titanium),apple,d07a530a,2.0,2024-03-19 11:18:10,SmartPhones,Electronics,21,female,uk
+65fab456bec08a417bc9f8d0,apple iphone 14 (128 gb) - blue,apple,79b6e80e,4.5,2024-03-20 10:04:40,SmartPhones,Electronics,21,male,india
