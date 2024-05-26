@@ -1,7 +1,5 @@
-setuptools
-wheel
-Flask
+flask
 pandas
-numpy
 scikit-learn
 pymongo
+flask-cors
