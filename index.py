@@ -1,4 +1,5 @@
 import os
+import distutils
 import pandas as pd
 from popularity_based import *
 from content_based import *
