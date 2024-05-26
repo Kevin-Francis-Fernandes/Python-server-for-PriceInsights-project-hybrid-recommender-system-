@@ -3,3 +3,5 @@ wheel
 Flask
 pandas
 numpy
+scikit-learn
+pymongo
