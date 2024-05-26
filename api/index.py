@@ -90,3 +90,5 @@ def check():
     
     return jsonify("hi")
 
+if __name__ == '__main__':
+    app.run(debug=True)
