@@ -4,3 +4,5 @@ scikit-learn
 pymongo
 flask-cors
 python-dotenv
+Flask
+gunicorn
